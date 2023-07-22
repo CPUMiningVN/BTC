@@ -1,0 +1,33 @@
+
+
+Huong dan dao Bitcoin tren Dien thoai Android 2023: 
+
+1, Cai userland tren CHplay 
+
+2, chay Userland ubuntu 
+
+3, Setup Xmrig cho Android 
+
+apt-get update -y
+
+sudo apt install ca-certificates
+
+sudo apt update -y && sudo apt install curl -y && curl https://raw.githubusercontent.com/HighVoltage557/XmrigOnAndroid/main/compile.sh | bash
+
+cd && cd xmrig/build
+
+4, setup pool dao Nicehash: 
+
+tao 1 tk nicehash , KYC 2fa 
+
+./xmrig -o randomxmonero.auto.nicehash.com:9200 -a rx -k -u .note10 -pass x -t 6 
+
+
+
+
+
+
+
+
+
+
