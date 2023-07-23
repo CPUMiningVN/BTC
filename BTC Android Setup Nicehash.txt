@@ -20,7 +20,7 @@ cd && cd xmrig/build
 
 tao 1 tk nicehash , KYC 2fa 
 
-./xmrig -o randomxmonero.auto.nicehash.com:9200 -a rx -k -u .note10 -pass x -t 6 
+./xmrig -o 
 
 
 
