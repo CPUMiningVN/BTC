@@ -18,7 +18,7 @@ cd && cd xmrig/build
 
 4, setup pool dao unMineable: 
 
-./xmrig -o rx.unmineable.com:3333 -a rx -k -u  -p x -t 6 
+./xmrig -o  
 
  
 
